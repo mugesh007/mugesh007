@@ -14,6 +14,12 @@
 <img align="center" alt="mugesh007's Language Used Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mugesh007&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be&layout=compact" />
 
 
+  
+![mugesh007's Git streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mugesh007&background=000&border=fff&ring=ffb000&fire=15d8be&currStreakNum=lime&sideNums=ffb000&currStreakLabel=15d8be&sideLabels=15d8be&dates=e10078 "mugesh007's Git streak Stats")
+
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasthedeveloper&background=000&border=fff&ring=ffb000&fire=15d8be&currStreakNum=lime&sideNums=ffb000&currStreakLabel=15d8be&sideLabels=15d8be&dates=e10077" /> -->
+
+
 
 
 <!---
