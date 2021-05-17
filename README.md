@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing Web Applications, Problem Solving.
 - 🌱 I’m currently learning Firebase
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 Reach me by clicking here<a href="mugeshmsd07@gmail.com">Mugesh K</a>
+- 📫 Reach me by clicking here <a href="mugeshmsd07@gmail.com">Mugesh K</a>
 - ✨ Fun Fact: I spend almost 5 hours in playing games.
 
 <h3 align="left">Languages and Tools:</h3>
