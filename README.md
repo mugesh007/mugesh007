@@ -11,12 +11,16 @@
 
   <img align="left" alt="mugesh007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mugesh007&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
 
+
 <img align="center" alt="mugesh007's Language Used Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mugesh007&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be&layout=compact" />
 
+<br />
 
-  
+### Mugesh K's Git Streak Stats: 
 ![mugesh007's Git streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mugesh007&background=000&border=fff&ring=ffb000&fire=15d8be&currStreakNum=lime&sideNums=ffb000&currStreakLabel=15d8be&sideLabels=15d8be&dates=e10078 "mugesh007's Git streak Stats")
 
+### Mugesh K's Git Achievements:
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=srinivasthedeveloper&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&row=1&column=9&margin-w=15&margin-h=15&theme=onedark"/>
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasthedeveloper&background=000&border=fff&ring=ffb000&fire=15d8be&currStreakNum=lime&sideNums=ffb000&currStreakLabel=15d8be&sideLabels=15d8be&dates=e10077" /> -->
 
 
