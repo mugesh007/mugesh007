@@ -21,7 +21,7 @@
 
 ### Mugesh K's Git Achievements:
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=mugesh007&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&row=1&column=9&margin-w=15&margin-h=15&theme=onedark"/>
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasthedeveloper&background=000&border=fff&ring=ffb000&fire=15d8be&currStreakNum=lime&sideNums=ffb000&currStreakLabel=15d8be&sideLabels=15d8be&dates=e10077" /> -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugesh007&background=000&border=fff&ring=ffb000&fire=15d8be&currStreakNum=lime&sideNums=ffb000&currStreakLabel=15d8be&sideLabels=15d8be&dates=e10077" /> -->
 
 
 
