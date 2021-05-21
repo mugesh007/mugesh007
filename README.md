@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Firebase
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me by clicking here <a href="mugeshmsd07@gmail.com">Mugesh K</a>
-- ✨ Fun Fact: I spend almost 5 hours in playing games.[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"
+- ✨ Fun Fact: I spend almost 5 hours in playing games.
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mugesh K's Spotify" width="350" />](https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz?si=bcdcb5a3f742475e)
 
