@@ -1,7 +1,7 @@
 - ### 👋 Hi, I’m Mugesh K
-- 👀 I’m interested in Developing Web Applications, Problem Solving.
-- 🌱 I’m currently learning Firebase
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Web based Applications, Problem Solving.
+- 🌱 I’m currently learning Automation Testing.
+- 💞️ I’m looking to collaborate on Web Designing.
 - ✨ Fun Fact: I spend almost 3 hours in playing games.
 
 - [<img src="" alt="Mugesh K's Spotify" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX1clOuib1KtQ?si=6778b29ec88348d0)
