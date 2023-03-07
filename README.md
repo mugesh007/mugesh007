@@ -1,7 +1,7 @@
 - ### 👋 Hi, I’m Mugesh K
 - 👀 I’m interested in Web based Applications, Problem Solving.
-- 🌱 I’m currently learning Automation Testing.
-- 💞️ I’m looking to collaborate on Web Designing.
+- 🌱 I’m currently learning about Dotnet.
+- 💞️ I’m looking to collaborate on building Web Applications.
 - ✨ Fun Fact: I spend almost 3 hours in playing games.
 
 - 🎵 [<img alt="Listen Some Music" />](https://open.spotify.com/playlist/37i9dQZF1DX1clOuib1KtQ?si=6778b29ec88348d0)
